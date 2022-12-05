@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>ALPHA 527</title>
+
+    <h1>Alpha 527</h1>
+
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+
+<body>
+
+    <div>
+
+    <p>
+
+        Alpha 527 encurtando.web
+
+        <h2>
+
+            CLIQUE AQUI
+
+        </h2>
+
+    </p>
+
+        <ul>
+
+            <li>
+
+                 <a href="./inf.html">informações</a>
+
+            </li>
+
+            
+
+                <ul>
+
+                    <li>
+
+                          <a href="https://www.mediafire.com/download/hk7zryxxg972e1y">avançar</a>
+
+                    </li>
+
+                </ul>
+
+        </ul>
+
+        <img src="./img/img.png" alt="alpha" height="50%" width="100%">
+
+    </div>
+
+    <span>
+
+    <p>
+
+        ALPHA 527, &copy 2022.
+
+    </p>
+
+    </span>
+
+</body>
+
+</html>
+
+/body>
+
+</html>
